@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TextExtracter</string>
+    <string name="copy_text" />
+    <string name="take_photo" />
+    <string name="pick_image" />
+    <string name="extracted_image" />
+</resources>
